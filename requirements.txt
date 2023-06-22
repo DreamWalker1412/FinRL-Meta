@@ -1,5 +1,4 @@
 # Requirements
-
 alpaca_trade_api>=2.1.0
 ccxt==1.91.1
 elegantrl
